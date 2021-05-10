@@ -1,3 +1,3 @@
 # Sublime Text Settings
 
-Contains settings files for export to other machines...
+This repo is automatically managed by a program that constantly syncs my ST3 settings with this repo.
