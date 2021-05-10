@@ -2,13 +2,12 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Golang Build"
+		"0_package_control_loader"
 	],
 	"installed_packages":
 	[
 		"Babel",
 		"Enki Theme",
-		"Golang Build",
 		"Package Control",
 		"Terminal"
 	]
