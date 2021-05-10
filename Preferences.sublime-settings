@@ -13,7 +13,7 @@
 	"open_files_in_new_window": false,
 	"scroll_past_end": true,
 	"spellcheck": true,
-	"tab_size": 4,
+	"tab_size": 2,
 	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": false,
