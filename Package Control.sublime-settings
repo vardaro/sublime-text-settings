@@ -2,12 +2,12 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Gofmt"
 	],
 	"installed_packages":
 	[
 		"Babel",
 		"Enki Theme",
+		"Gofmt",
 		"Golang Build",
 		"Package Control",
 		"Terminal"
